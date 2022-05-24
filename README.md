@@ -33,7 +33,7 @@
 -->
 <h3> My GitHub Stats: </h3>
 <p>
-<img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=varshith1212&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="200em" width="400px" src="https://github-readme-stats.vercel.app/api?username=varshith1212&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
 <img height="200em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith1212&>&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 
