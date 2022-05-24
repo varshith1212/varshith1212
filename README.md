@@ -35,7 +35,7 @@
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varshith1212&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith1212&>&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+<img height="200em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshith1212&>&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 
 </p>
 <img width="410px" src="http://github-readme-streak-stats.herokuapp.com?user=varshith1212&date_format=M%20j%5B%2C%20Y%5D&sideNums=ffffff&ring=1f6feb&background=000000&dates=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&fire=1f6feb&sideLabels=1f6feb&stroke=1f6feb&border=1f6feb" />
